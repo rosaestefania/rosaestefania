@@ -26,9 +26,9 @@ Economic | Financial | Data Science | Machine Learning | Deep Learning | Researc
 4th year Economic student. Currently learning programs like Stata, R y Phyton. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
 
 ## Values :dancers:
-- innovation
-- leadership
-- teamwork
+- Innovation
+- Leadership
+- Teamwork
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
