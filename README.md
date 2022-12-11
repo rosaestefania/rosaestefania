@@ -1,5 +1,5 @@
 
- # <a href="https://www.linkedin.com/in/rosa-ram%C3%ADrez-guti%C3%A9rrez-5a262818a/">Rosa Ramirez Singh</a> :smiley:
+ # <a href="https://www.linkedin.com/in/rosa-ram%C3%ADrez-guti%C3%A9rrez-5a262818a/">Rosa Ramirez Gutierrez</a> :smiley:
  
  <a href="https://twitter.com/RosaRamrezGut7">
   <img align="left" alt="Rosa Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
